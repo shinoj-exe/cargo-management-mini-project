@@ -1,0 +1,85 @@
+.textColour{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    
+  }
+  
+  .booking{
+    background-color: white;
+    margin-top: 30px;;
+    margin-left: 200px;
+    margin-right: 200px;
+    border: 5px rgb(39, 39, 90);
+  }
+  
+  .text{
+    padding-top: 20px;
+    margin: 25px;
+    margin-top: 20px;
+  }
+  
+  .form{
+    margin: 25px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+  }
+  
+  
+  .form input[type = 'text']{
+    margin: 10px;
+    padding: 5px;
+    border: 2px solid grey;
+    border-radius: 5px;
+  }
+  
+  .form input[type = 'date']{
+    margin: 10px;
+    padding: 5px;
+    border: 2px solid grey;
+    border-radius: 5px;
+  }
+  
+  .form input[type = 'number']{
+    margin: 10px;
+    padding: 5px;
+    border: 2px solid grey;
+    border-radius: 5px;
+  }
+  
+  .form input[type = 'email']{
+    margin: 10px;
+    padding: 5px;
+    border: 2px solid grey;
+    border-radius: 5px;
+  }
+  
+  .form input[type = 'password']{
+    margin: 10px;
+    padding: 5px;
+    border: 2px solid grey;
+    border-radius: 5px;
+  }
+  
+  .form input[type = 'time']{
+    margin: 10px;
+    padding: 5px;
+    border: 2px solid grey;
+    border-radius: 5px;
+  }
+  
+  .btn{
+    margin-top: 10px;
+    padding: 10px;
+    cursor: pointer;
+    size: 20px;
+    background-color: blue;
+    color: white;
+    border: 2px solid white;
+    border-radius: 5px;
+    
+  }
+  
+  .btn:hover{
+    opacity: 0.9;
+  }

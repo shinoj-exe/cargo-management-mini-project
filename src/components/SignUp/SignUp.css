@@ -1,0 +1,80 @@
+.signUp {
+    width: 50%;
+    height: 90vh;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color:#0d0da8;
+  }
+   
+  .label{
+    display: block;
+    font-size: larger;
+    color: white;
+    padding: 5px;
+  }
+   
+  .input{
+    font-size: larger;
+    padding: 5px;
+    margin: 2px;
+    
+  }
+  .btn{
+    color: white;
+    background-color: red;
+    border-radius: 5px;
+    font-size: larger;
+    display: block;
+    padding: 5px;
+    margin: 10px auto;
+  }
+   
+  .messages{
+    display: flex;
+    justify-content: center;
+  }
+   
+  .error{
+    display: block;
+    background-color: red;
+    color: white;
+    width: fit-content;
+    height: 50px;
+    padding: 5px;
+  }
+   
+  .success{
+    display: block;
+    background-color: lightblue;
+    color: black;
+    width: fit-content;
+    height: 50px;
+    padding: 5px;
+  }
+  .newUserTitle{
+    color: white;
+    font-size: 4.5rem;
+    letter-spacing: 1px;
+  }
+  .gender{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 1.2rem;
+  }
+  .genderLabels{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .genderLabels input{
+    margin-left: 3rem;
+  }
+  .genderLabels label{
+    margin-left: 0.5rem;
+  }

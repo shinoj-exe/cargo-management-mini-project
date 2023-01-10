@@ -1,0 +1,17 @@
+table, th, td {
+    border: 1px solid;
+    width: 98%;
+    table-layout: fixed;
+
+  }
+  .table{
+    font-size: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 5rem;
+  }
+  .heading{
+    text-align: center;
+    padding: 2rem;
+  }
